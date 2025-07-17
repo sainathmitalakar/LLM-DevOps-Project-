@@ -1,0 +1,8 @@
+replicaCount: 1
+image:
+  repository: sainathmitalakar/llm-devops
+  tag: latest
+  pullPolicy: IfNotPresent
+service:
+  type: LoadBalancer
+  port: 80
