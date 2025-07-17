@@ -1,4 +1,4 @@
 apiVersion: v2
 name: llm-chart
-description: A Helm chart for deploying LLM app
+description: A Helm chart for deploying LLM application
 version: 0.1.0
